@@ -47,6 +47,9 @@ class CounterScreen extends StatelessWidget {
                 ),
               ],
             ),
+            const Text(
+              'You have pushed the button this many times :)',
+            ),
           ],
         ),
       ),
